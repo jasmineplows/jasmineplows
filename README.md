@@ -1,7 +1,7 @@
 - 👋 @jasmineplows
 - 🔬 Research Scientist
 - 💻 R
-- 🎓 Learning Python/SQL/Swift
+- 🎓 Python/SQL/Swift
 - 📫 jasmineplows@gmail.com
 
 <!---
