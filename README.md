@@ -1,7 +1,6 @@
 - 👋 @jasmineplows
 - 🔬 Research Scientist
 - 💻 R
-- 🎓 Python/SQL/Swift
 - 📫 jasmineplows@gmail.com
 
 <!---
