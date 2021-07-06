@@ -1,6 +1,6 @@
 - 👋 @jasmineplows
-- 🔬 Research Scientist
-- 💻 R
+- 🔬 Senior A.I./Data Analyst
+- 💻 R/Python
 - 📫 jasmineplows@gmail.com
 
 <!---
