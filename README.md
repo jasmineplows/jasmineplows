@@ -1,5 +1,5 @@
 - 👋 @jasmineplows
-- 🔬 Principal A.I./Data Analyst @ Medtronic Diabetes
+- 🔬 Principal A.I./Data Scientist @ Medtronic Diabetes
 - 💻 Python/R
 - 📫 jasmineplows@gmail.com
 
